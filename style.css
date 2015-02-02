@@ -1,14 +1,24 @@
 body {
 	text-align: center;
-	background-color: #00ffcc;
 }
 h1 {
 	color: gray;
-	font-size: 50px;
+	font-size: 60px;
+	padding: 150px 0 0 0;
 }
-img {
+.keely {
+	padding-top: 60px;
 	border-radius: 20%;
 }
+figure {
+	float: right;
+}
+
+figcaption {
+	font-size: 20px;
+	line-height: 10px;
+}
+
 .content {
 	margin: 300px 40px 0 40px;
 	text-align: justify;
