@@ -10,6 +10,15 @@ h1 {
 	font-family: 'Rock Salt', cursive;
 }
 
+h2 {
+	text-align: center;
+	font-family: 'Rock Salt', cursive;
+}
+
+.contact {
+	text-align: center;
+}
+
 figure {
 	float: right;
 }
@@ -29,6 +38,13 @@ figcaption {
 	border-radius: 20%;
 }
 
+.wave{
+	float: left;
+	margin-bottom: 20px;
+	height: 150px;
+	width: 150px;
+}
+
 .content {
 	margin: 300px 40px 0 40px;
 	text-align: justify;
@@ -44,7 +60,7 @@ figcaption {
 }
 .image-slider-wrapper{
 	overflow: hidden;
-	width: 800px;
+	width: 1500px;
 	height: 640px;
 }
 #image_slider{
