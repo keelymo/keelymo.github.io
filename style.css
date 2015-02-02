@@ -1,22 +1,32 @@
 body {
 	text-align: center;
 }
+
 h1 {
 	color: gray;
-	font-size: 60px;
-	padding: 150px 0 0 0;
+	font-size: 45px;
+	padding: 50px 0 0 149px;
+	text-align: center;
+	font-family: 'Rock Salt', cursive;
 }
-.keely {
-	padding-top: 60px;
-	border-radius: 20%;
-}
+
 figure {
 	float: right;
 }
 
 figcaption {
 	font-size: 20px;
-	line-height: 10px;
+	line-height: 25px;
+	position: relative;
+	top: -15px;
+}
+.k{
+	height: 120px;
+	width: 120px;
+}
+.keely {
+	padding-top: 10px;
+	border-radius: 20%;
 }
 
 .content {
